@@ -1,7 +1,7 @@
 - 👋 Howdy, the name is @weldzy
 - 👀 I'm an aspiring IT learner working to transition in to a professional
 - 🌱 Just a sprout working on everything I can get my hands on
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on entry level projects to gain better understanding and increase my own experience
 - 📫 How to reach me: ianweldele@gmail.com | Twitter: @Iweldele
 
 <!---
